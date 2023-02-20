@@ -10,8 +10,8 @@ instrucciones generales en el uso de los comandos y una opción para salir del j
 
 Creado por:
 
-Ximena Cespedes
+Ximena Cespedes Quesada B91969
 
-Carlos Cordero Retana
+Carlos Cordero Retana B92317
 
-Aroon Sanabria Torres
+Aroon Sanabria Torres B97205
